@@ -12,3 +12,4 @@ C:\Users\rajss\Documentos\estudoprogra\estudo-c#-net-rider\teste\teste\obj\Debug
 C:\Users\rajss\Documentos\estudoprogra\estudo-c#-net-rider\teste\teste\obj\Debug\net8.0\teste.pdb
 C:\Users\rajss\Documentos\estudoprogra\estudo-c#-net-rider\teste\teste\obj\Debug\net8.0\teste.genruntimeconfig.cache
 C:\Users\rajss\Documentos\estudoprogra\estudo-c#-net-rider\teste\teste\obj\Debug\net8.0\ref\teste.dll
+C:\Users\rajss\Documentos\estudoprogra\estudo-c#-net-rider\teste\teste\obj\Debug\net8.0\teste.sourcelink.json
