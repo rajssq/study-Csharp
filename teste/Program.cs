@@ -22,6 +22,13 @@ class Program
 
         //char
         char char1 = 'a';
+        
+        //class - criando uma instancia
+        testClass minhaClasse = new testClass();
+        
+        Console.WriteLine(minhaClasse.number1); 
+        Console.WriteLine(minhaClasse.number2); 
+     
 
         Console.WriteLine($"Nome: {name} | idade: {idade}"); //interpolacao
         Console.WriteLine(float1); 
